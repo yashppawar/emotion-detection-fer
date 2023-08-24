@@ -1,0 +1,6 @@
+env/*
+data/*
+flagged/*
+logs/*
+data.zip
+.ipynb_checkpoints/*
